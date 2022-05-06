@@ -1,2 +1,2 @@
-# myfirstgit
+# myfirstgit.git
 test
